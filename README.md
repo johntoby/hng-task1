@@ -8,8 +8,7 @@ The steps I used to achieve the tasks are as follows -
    ```bash
    $ sudo apt update
    $sudo apt install nginx -y
-   ```bash
-
+   
   - Verify the nginx is properly set up by viewing the default page on the browser using the public ip address of my EC2 instance
   - I Cloned the git repository containing my website files onto the server
   - I copied the files to the /var/www/html directory
